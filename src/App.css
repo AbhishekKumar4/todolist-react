@@ -44,3 +44,26 @@
 h1 {
   text-align: center;
 }
+
+.container {
+  text-align: center;
+}
+/* body {
+  background-color: lightblue;
+} */
+input[type=text]{
+  padding: 2px;
+  margin: 2px;
+}
+
+/* input[type=submit] {
+  background: lightblue;
+  padding: 2px;
+  border-style: solid;
+} */
+
+ul {
+  list-style-type: none;
+  
+}
+
